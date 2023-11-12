@@ -1,0 +1,11 @@
+body{
+	background-color:black;
+}
+.sidebar {
+    min-height: 100vh;
+    width: 14rem!important;
+    background-color: #fff!important;
+    -webkit-box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15)!important;
+    box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15)!important;
+    z-index: 0;
+}
